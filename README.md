@@ -4,7 +4,7 @@ This repository implements the model proposed in the paper:
 
 Kin Wai Lau, Yasar Abbas Ur Rehman, Yuyang Xie, Lan Ma, **AudioInceptionNeXt: TCL AI LAB Submission to EPIC-SOUND Audio-Based-Interaction-Recognition Challenge 2023**
 
-[[arXiv paper]](Coming Soon)
+[[arXiv paper]](https://arxiv.org/abs/2307.07265)
 
 The implementation code is based on the **Slow-Fast Auditory Streams for Audio Recognition**, ICASSP, 2021. For more information, please refer to the [link](https://github.com/ekazakos/auditory-slow-fast).
 
@@ -14,7 +14,12 @@ The implementation code is based on the **Slow-Fast Auditory Streams for Audio R
 When using this code, kindly reference:
 
 ```
-Coming Soon
+@article{lau2023audioinceptionnext,
+  title={AudioInceptionNeXt: TCL AI LAB Submission to EPIC-SOUND Audio-Based-Interaction-Recognition Challenge 2023},
+  author={Lau, Kin Wai and Rehman, Yasar Abbas Ur and Xie, Yuyang and Ma, Lan},
+  journal={arXiv preprint arXiv:2307.07265},
+  year={2023}
+}
 ```
 
 
